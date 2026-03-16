@@ -38,14 +38,23 @@ CIRCUIT DIAGRAMS
 
 Half wave rectifier with filter:
 
+![image](https://github.com/Viveka-Sengalvarayan/BEEE-EXP-4/blob/main/4.1.png?raw=true)
+
 Bridge rectifier with filter:
+
+![image](https://github.com/Viveka-Sengalvarayan/BEEE-EXP-4/blob/main/4.1.png?raw=true)
 
 TABULAR COLUMN
 Rectifier without filter
+
 TABULAR COLUMN
 Rectifier with filter
 
 WAVEFORM:
+
+![image](https://github.com/Viveka-Sengalvarayan/BEEE-EXP-4/blob/main/4.5.png?raw=true)
+
+![image](https://github.com/Viveka-Sengalvarayan/BEEE-EXP-4/blob/main/4.6.png?raw=true)
 
 
 RESULT:
